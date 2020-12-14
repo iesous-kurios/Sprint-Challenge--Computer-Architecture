@@ -1,4 +1,6 @@
-"""Main."""
+"""
+Import CPU class, load and run CPU
+"""
 
 import sys
 from cpu import *
